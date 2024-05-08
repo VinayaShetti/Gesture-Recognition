@@ -1,2 +1,2 @@
 # Gesture-Recognition
-Author- Vinaya Shetti
+Author- Vinaya Shetti(dumbfuck)
